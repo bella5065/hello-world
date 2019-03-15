@@ -1,3 +1,3 @@
 # hello-world
-It's my firth Repository
+It's my first Repository
 thanks
